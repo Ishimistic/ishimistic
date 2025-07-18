@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)]
+![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <!-- Header -->
 <h1 align="center" style="font-size: 2.5em; color: #0A66C2;">Hi 👋, I'm <span style="color: #e63946;">Ishita</span></h1>
 <h3 align="center" style="color: #555;">A passionate Software Engineer from India 🇮🇳</h3>
